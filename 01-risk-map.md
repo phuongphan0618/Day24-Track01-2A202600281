@@ -12,7 +12,7 @@ format: Individual (Day 24)
 
 | Trường | Điền vào đây |
 |---|---|
-| Họ tên |  |
+| Họ tên | Phan Thị Mai Phương |
 | Mã học viên | 2A202600281 |
 | Track number | 4 |
 | Tên track | Trợ lý ghi chú và tổng hợp chi tiêu |

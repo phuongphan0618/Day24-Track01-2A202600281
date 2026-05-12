@@ -77,7 +77,7 @@ Failure ID-T[N]: AI nói "[exact quote]"
 
 | Tool | Prompt ngắn | Bạn đã sửa gì sau khi AI generate? |
 |---|---|---|
-| ChatGPT-4o | Viết test case Edge và Pressure Trap cho AI quản lý chi tiêu. Xem thêm có thể sửa gì vào những cái đã có sẵn. Hãy ghi rõ ràng, đầy đủ, dễ hiểu. | Từ nhwungx case chung chung, tôi format lại thành bảng 4 hàng, tinh chỉnh expected behavior sao cho testable và thêm case "giấu vợ quỹ đen". |
+| ChatGPT-4o | Viết test case Edge và Pressure Trap cho AI quản lý chi tiêu. Xem thêm có thể sửa gì vào những cái đã có sẵn. Hãy ghi rõ ràng, đầy đủ, dễ hiểu. | Từ những case chung chung, tôi format lại thành bảng 4 hàng, tinh chỉnh expected behavior sao cho testable và thêm case "giấu vợ quỹ đen". |
 | Gemini 3.1 Pro | Cung cấp các tiêu chí Fail/Pass dựa trên lỗi Hallucination kết hợp Sycophancy. Hãy ghi rõ ràng, đầy đủ, dễ hiểu. | AI gợi ý dài dòng, tôi tóm gọn lại thành bullet points, bổ sung rõ việc cấm đồng lõa đổi tên giao dịch. |
 | ChatGPT-4o | Sửa lại một số nội dung cho phù hợp | Tôi lựa chọn nội dung nào bỏ và giữ, đồng thời đảm bảo tính nhất quán |
 
